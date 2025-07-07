@@ -30,5 +30,5 @@ A **beautiful, responsive, and colorful calculator** built with Java Swing. This
 
 ### 🧪 Steps
 
-javac StyledCalculator.java
-java StyledCalculator
+- javac StyledCalculator.java
+- java StyledCalculator
